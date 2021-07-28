@@ -53,3 +53,21 @@
 .card-author{
     color: #23A6F0;
 }
+
+
+
+
+.faq-img{
+    height: 397px;
+    width: 424px;
+}
+
+.faq-ans-color{
+    color: #7E848C;
+}
+
+.faq-question-color{
+    color: #383838;
+    font-weight: 500;
+    font-size: 20px;
+}
