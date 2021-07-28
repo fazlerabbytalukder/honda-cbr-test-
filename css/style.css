@@ -55,7 +55,7 @@
 }
 
 
-
+/* faq section design */
 
 .faq-img{
     height: 397px;
@@ -70,4 +70,22 @@
     color: #383838;
     font-weight: 500;
     font-size: 20px;
+}
+
+
+
+/* biker story style */
+
+.read-more-button{
+    background-color: #E76F51;
+    font-size: 16px;
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more-button:hover{
+    color: white;
 }
